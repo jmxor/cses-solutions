@@ -6,7 +6,7 @@ My solutions to problems from the CSES Problem Set, solved in C++ as practice wh
 | Problem               | Status |
 |:----------------------|--------|
 | Weird Algorithm       | solved |
-| Missing number        |        |
+| Missing Number        | solved |
 | Repetitions           |        |
 | Increasing Array      |        |
 | Permutations          |        |
