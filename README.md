@@ -1,0 +1,2 @@
+# CSES Solutions
+My solutions to problems from the CSES Problem Set. Initially i intend to solve the problems in C++ as practice while learning the language however, my eventual goal is to have both C++ and Python solutions for each problem to allow me to better compare the languages. 
