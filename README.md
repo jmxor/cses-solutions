@@ -5,7 +5,7 @@ My solutions to problems from the CSES Problem Set, solved in C++ as practice wh
 ### Introductory Problems
 | Problem               | Status |
 |:----------------------|--------|
-| Weird Algorithm       |        |
+| Weird Algorithm       | solved |
 | Missing number        |        |
 | Repetitions           |        |
 | Increasing Array      |        |
